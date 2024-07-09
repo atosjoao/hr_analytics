@@ -8,6 +8,11 @@ O dataset foi retirado do Kaggle, através do link: https://www.kaggle.com/datas
 # Metodologia
 Como metodologia, realizei perguntas de negócios para entender, inicialmente, qual o cenário acerca dos resultados do dataset e após, utilizei a estatística descritiva para responder essas perguntas, gerar novos insights e conseguir retirar uma conclusão mais sólida possível acerda destes dados. 
 
+# Ferramentas
+* Jupyter Notebook - Python
+* Estatística Descritiva
+* Business Intelligence
+
 # Base de Dados
 A base de dados possui as seguintes características principais:
 
