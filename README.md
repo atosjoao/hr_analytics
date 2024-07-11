@@ -22,8 +22,8 @@ Para o Dashboard, serão utilizadas técnicas de storylelling, para desenvolver 
 
 ## 3. Entregáveis
 
-1. Relatório no Jupyter Notebook - Disponível no link: https://lookerstudio.google.com/s/hCCZ6AKFbC8
-2. Dashboard no Looker Studio.
+1. Relatório no Jupyter Notebook
+2. Dashboard no Looker Studio - _Disponível no link: https://lookerstudio.google.com/s/hCCZ6AKFbC8_
 
 ## 4. Ferramentas
 
